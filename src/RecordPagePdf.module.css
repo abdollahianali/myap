@@ -1,0 +1,84 @@
+/* styles.css */
+
+.page {
+    flex-direction: column;
+    padding: 20px 30px;
+    font-size: 12px;
+  }
+  
+  .section {
+    margin: 10px;
+    padding: 10px;
+    flex-grow: 1;
+  }
+  
+  .header {
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .name {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .contact {
+    font-size: 12px;
+  }
+  
+  .section {
+    margin-bottom: 10px;
+  }
+  
+  .sectionTitle {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .sectionText {
+    font-size: 12px;
+  }
+  
+  .job {
+    margin-bottom: 5px;
+  }
+  
+  .jobTitle {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .jobCompany {
+    font-size: 12px;
+  }
+  
+  .jobDate {
+    font-size: 10px;
+    font-style: italic;
+  }
+  
+  .jobDescription {
+    font-size: 12px;
+    margin-left: 10px;
+  }
+  
+  .education {
+    margin-bottom: 5px;
+  }
+  
+  .educationTitle {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .educationInstitution {
+    font-size: 12px;
+  }
+  
+  .educationDate {
+    font-size: 10px;
+    font-style: italic;
+  }
+  
