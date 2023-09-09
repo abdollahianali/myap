@@ -96,6 +96,7 @@ const RecordPage = () => {
 
               <Box
                 component="img"
+                
                 sx={{
                   height: 375,
                   width: 273,
